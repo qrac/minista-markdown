@@ -1,10 +1,10 @@
 {
   "name": "minista-markdown",
   "description": "React component to easily convert Markdown to HTML in minista",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "./dist/main.js",
-  "module": "./dist/main.mjs",
   "types": "./dist/index.d.ts",
+  "type": "module",
   "files": [
     "dist"
   ],
